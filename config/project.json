@@ -53,10 +53,6 @@
       }
     ],
     "repoIds": [
-      {
-        "name": "AraCred",
-        "owner": "Covidathon-AraCred-Testing"
-      }
     ]
   }
 ]
